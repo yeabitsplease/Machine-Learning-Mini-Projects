@@ -26,7 +26,7 @@
    * Data pre-processing is a process of cleaning the raw data i.e. the data is collected in the real world and is converted to a clean data set.
    * In other words,   whenever the data is gathered from different sources it is collected in a raw format and this data isn’t feasible for the analysis.
      Therefore, certain steps are executed to convert the data into a small clean data set, this part of the process is called as data pre-processing.
-    * **Need of Preprocessing**
+ * **Need of Preprocessing**
     * As we know that data pre-processing is a process of cleaning the raw data into clean data, so that can be used to train the model. So, we definitely need data  pre-processing to achieve good results from the applied model in machine learning and deep learning projects.
    * Insert: `O(1)`
    * Remove: `O(1)`
